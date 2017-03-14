@@ -1,5 +1,5 @@
 Coverage.py Badge
 ==================
 
-.. image:: https://cdn.rawgit.com/samael500/coverage-badge/master/media/15.svg
+.. image:: https://github.com/nanomag/test/blob/master/coverage.svg
     :alt: 15%
